@@ -2,6 +2,20 @@
 
 ---
 
+## Table of Contents
+
+- [WHOIS](Task1/WHOIS.md)
+- [DNS](Task2/DNS.md)
+- [Subdomains](Task3/Subdomains.md)
+- [DNS Zone Transfers](Task4/DNS_Zone_Transfers.md)
+- [Virtual Hosts](Task5/Virtual_Hosts.md)
+- [Fingerprinting](Task6/Fingerprinting.md)
+- [Crawling](Task7/Crawling.md)
+- [Web Archives](Task8/Web_Archives.md)
+- [Exams](Task9/DLH_TEST.md)
+
+---
+
 ## REQUIREMENTS
 
 ### TEAMWORK
@@ -26,6 +40,4 @@
 - This is not a race.
 
 ---
-
-## Table of Contents
 
