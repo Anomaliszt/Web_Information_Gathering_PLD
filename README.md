@@ -4,14 +4,14 @@
 
 ## Table of Contents
 
-- [WHOIS](Task1/WHOIS.md)
-- [DNS](Task2/DNS.md)
-- [Subdomains](Task3/Subdomains.md)
-- [DNS Zone Transfers](Task4/DNS_Zone_Transfers.md)
-- [Virtual Hosts](Task5/Virtual_Hosts.md)
-- [Fingerprinting](Task6/Fingerprinting.md)
-- [Crawling](Task7/Crawling.md)
-- [Web Archives](Task8/Web_Archives.md)
+- [Task 1 WHOIS](Task1/WHOIS.md)
+- [Task 2 DNS](Task2/DNS.md)
+- [Task 3 Subdomains](Task3/Subdomains.md)
+- [Task 4 DNS Zone Transfers](Task4/DNS_Zone_Transfers.md)
+- [Task 5 Virtual Hosts](Task5/Virtual_Hosts.md)
+- [Task 6 Fingerprinting](Task6/Fingerprinting.md)
+- [Task 7 Crawling](Task7/Crawling.md)
+- [Task 8 Web Archives](Task8/Web_Archives.md)
 - [Exams](Task9/DLH_TEST.md)
 
 ---
