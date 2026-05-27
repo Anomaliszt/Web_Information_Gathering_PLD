@@ -1,4 +1,4 @@
-# DNS — Quick Reference
+# DNS - Quick Reference
 
 > The **Domain Name System (DNS)** is the internet's GPS — it translates human-readable domain names (e.g., `www.example.com`) into numerical IP addresses (e.g., `192.0.2.1`) that computers use to communicate.
 
@@ -19,13 +19,17 @@
 
 ---
 
-## Tasks:
+## Task 2:
+ - **QUESTION 1**: Which IP address maps to inlanefreight.com?
+ - **QUESTION 2**: Which domain is returned when querying the PTR record for 134.209.24.248?
+ - **QUESTION 3**: What is the full domain returned when you query the mail records for facebook.com?
 
 ---
 
-## `dig` Cheat Sheet
+## Cheat Sheet
 
 ```bash
+host domain.com             # A Record lookup
 dig domain.com              # Default A record lookup
 dig domain.com A            # IPv4 address
 dig domain.com AAAA         # IPv6 address
