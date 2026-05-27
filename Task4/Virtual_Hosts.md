@@ -18,7 +18,7 @@
 ---
 
 ## Tasks:
- - **QUESTION 1** Find the corresponding Vhosts with these prefix for this domain host: inlanefreight.htb
+ - **QUESTION 1** Find the corresponding Vhosts with these prefix for this domain host: inlanefreight.htb (ask me IP and port)
 ```
 web
 vm
