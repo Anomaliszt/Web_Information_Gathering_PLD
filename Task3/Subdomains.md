@@ -18,4 +18,4 @@
 ## Tasks
  - **QUESTION 1** List all subdomains for inlanefreight.com
 
-HINT: **Fuzz**
+HINT: **Fuzz** using seclist's subdomain list
